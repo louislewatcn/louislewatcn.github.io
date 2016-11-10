@@ -1,7 +1,11 @@
-_site
-node_modules
-npm-debug.log
 .DS_Store
-*/.DS_Store
-*/*/.DS_Store
-*.sh
+
+# Compiled site
+_site
+
+# Sass garbage
+.sass-cache
+
+# Bundler
+.bundle/
+vendor/
