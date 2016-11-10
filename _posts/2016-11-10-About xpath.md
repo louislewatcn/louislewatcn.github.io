@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Jekyll 搭建静态博客"
-date:   2015-02-15 22:14:54
+title:  "Xpath基本知识"
+date:   2016-11-10 22:14:54
 categories: jekyll
 excerpt: Jekyll Github 搭建静态博客 blog 高浩阳 使用多说评论系统 以及Jia分享插件 参考git教程
 ---
 
 * content
 {:toc}
+
 
 在 XPath 中，有七种类型的节点：元素、属性、文本、命名空间、处理指令、注释以及文档节点（或称为根节点）
 
